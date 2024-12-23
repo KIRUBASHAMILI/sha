@@ -1,0 +1,39 @@
+h2{
+    color: black;
+    text-shadow: 2px 2px;
+}
+.sha
+{
+    border: 2px solid red;
+}
+.Sham
+{
+    border: 2px solid black;
+    align-items: center;
+}
+p{
+    color: crimson;
+    font-size: x-large;
+    
+}
+.sha{
+    background-color: black;
+    font-style: oblique;
+    color: aliceblue;
+    position: relative;
+    top: 10px;
+}
+.Sham{
+    background-color: cornsilk ;
+    font-style: oblique;
+    position: relative;
+    
+}
+body{
+    
+    background-image: url("https://static3.depositphotos.com/1000914/204/i/450/depositphotos_2040619-stock-photo-old-vintage-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: cover;
+      
+}
